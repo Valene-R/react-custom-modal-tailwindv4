@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Valene-R/react-custom-modal-tailwindv4#readme",
   "peerDependencies": {
-  "react": ">=19",
-  "react-dom": ">=19"
+    "react": ">=19",
+    "react-dom": ">=19",
+    "prop-types": "^15.8.1"
   }
 }
