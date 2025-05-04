@@ -153,6 +153,9 @@ export default {
 
     // Effects & States
     'shadow-lg', 'cursor-pointer', 'focus:ring-1', 'focus:ring-black', 'focus:outline-none',
+
+    // Accessibility - screen reader only 
+    'sr-only',
   ],
   theme: {
     extend: {},
